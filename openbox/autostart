@@ -1,6 +1,0 @@
-xrandr --output HDMI-A-0 --mode 1920x1080 --rate 74.97 --output DisplayPort-0 --mode 1920x1080 --rate 60.00 --right-of HDMI-A-0
-tint2 &
-tint2 -c /home/loveshock/.config/tint2/tint2bottom.tint2rc &
-tint2 -c /home/loveshock/.config/tint2/tint2right.tint2rc &
-picom -cC &
-nitrogen --restore &
